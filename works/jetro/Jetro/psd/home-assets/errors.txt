@@ -1,0 +1,1 @@
+[2017-06-28 17:10:29] layer "slider_img1.jpg20": Invalid quality: 200
